@@ -447,6 +447,7 @@ header section .social .icons a:hover {
         width: 12rem;
         z-index: 1;
         left: 1.3rem;
+        overflow-y: auto;
     }
 }
 
