@@ -660,6 +660,11 @@ header section .social .icons a:hover {
             min-height: 132px;
         }
 
+        header section .cards {
+            margin: 0;
+            padding: 0;
+        }
+
         .sub-menu-wrap.open-menu {
             max-height: 89%;
             width: 92%;
