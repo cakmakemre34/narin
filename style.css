@@ -618,7 +618,7 @@ header section .social .icons a:hover {
         header .logo img {
             width: 230px;
             margin: 31px 0px 0px -31px;
-            top: -6px;
+            top: 0;
             height: 230px;
             position: relative;
             left: 14px;
