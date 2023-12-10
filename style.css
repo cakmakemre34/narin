@@ -563,13 +563,13 @@ header section .social .icons a:hover {
             width: 200px;
             height: 43%;
             left: 23%;
-            top: 3%;
+            top: 0;
         }
 
         header .logo img {
             width: 260px;
             margin: 31px 0px 0px -31px;
-            top: -6px;
+            top: 0;
         }
 
         header section .card {
