@@ -201,17 +201,21 @@ header section .content h1 {
 
 header section .content p {
     font-size: 15px;
-    font-weight: 600;
     width: 290px;
     word-break: break-all;
     color: #000;
     margin-bottom: 10px;
 }
 
-header section .content .price_order {
+header section .content .price_ord{
     display: flex;
+    justify-content:flex-start;
+}
+
+header section .content .price_order {
     align-items: center;
     margin-top: 10px;
+    width: 8rem;
 }
 
 header section .content .price_order .price h2 {
