@@ -118,7 +118,7 @@ header .nav menu {
     max-height: 32rem;
     width: 10rem;
     z-index: 1;
-
+    border-top: 1px dashed rgb(250, 52, 55);
 }
 
 .sub-menu-link {
