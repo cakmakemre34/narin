@@ -118,7 +118,6 @@ header .nav menu {
     max-height: 32rem;
     width: 10rem;
     z-index: 1;
-    border-top: 1px dashed rgb(250, 52, 55);
 }
 
 .sub-menu-link {
@@ -127,6 +126,7 @@ header .nav menu {
     text-decoration: none;
     margin: 12px 0;
     height: 1.37rem;
+    border-top: 1px dashed rgb(250, 52, 55);
 }
 
 .sub-menu-link p {
