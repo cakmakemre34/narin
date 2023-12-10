@@ -245,7 +245,7 @@ header section .cards {
     width: 62.5%;
     height: 140px;
     /* border: 1px solid #000; */
-    position: fixed;
+    position: absolute;
     top: 69%;
     left: 18.5%;
     padding-left: 30px;
