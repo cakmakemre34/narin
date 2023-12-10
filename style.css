@@ -34,7 +34,7 @@ header {
     overflow: hidden;
     transition: 1s linear;
     border-radius: 33px;
-    background: linear-gradient(#000, rgb(249, 193, 72)), radial-gradient(circle, white, black);
+    background: linear-gradient(rgb(249, 193, 72),#000 ), radial-gradient(circle, white, black);
 
 }
 
