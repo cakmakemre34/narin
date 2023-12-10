@@ -7,7 +7,6 @@
 }
 
 
-
 html {
     font-family: 'Gloock', serif;
 
@@ -54,7 +53,7 @@ header .logo h1 {
     color: #000;
     text-align: center;
     margin-top: 5px;
-    font-size: 25px;
+    font-size: 27px;
     font-weight: 600;
 }
 
@@ -95,7 +94,7 @@ header .nav menu {
     padding: 0px 25px;
     position: relative;
     text-decoration: none;
-    font-size: 16px;
+    font-size: 25px;
     font-weight: 600;
     color: #000;
     transition: .3s linear;
@@ -133,12 +132,12 @@ header .nav menu {
     width: 100%;
     margin: 0 6px;
     color: #000;
-    font-size: small;
+    font-size: medium;
 }
 
 .sub-menu-link span {
     margin: 0 6px;
-    font-size: 18px;
+    font-size: 25px;
     transition: tranform 0.5s;
     color: #000;
 }
@@ -175,33 +174,6 @@ header .nav menu {
 
 
 
-header .left_menu {
-    width: 20px;
-    height: 90%;
-    /* border: 1px solid green; */
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    flex-direction: column;
-}
-
-header .left_menu a {
-    margin: 30px 0px;
-    padding: 0px 5px;
-    text-decoration: none;
-    font-size: 10px;
-    color: #000;
-    font-weight: 600;
-    transition: .3s linear;
-    transform: rotate(-90deg);
-}
-
-header .left_menu a:hover {
-    color: #000;
-}
-
-
-
 header section {
     width: 97%;
     height: 90%;
@@ -220,18 +192,20 @@ header section .content {
 }
 
 header section .content h1 {
-    font-size: 36px;
+    font-size: 45px;
     transition: 1s linear;
     z-index: 1;
     color: #000;
+    margin-bottom: 20px;
 }
 
 header section .content p {
-    font-size: 10px;
+    font-size: 15px;
     font-weight: 600;
     width: 290px;
     word-break: break-all;
     color: #000;
+    margin-bottom: 10px;
 }
 
 header section .content .price_order {
@@ -241,9 +215,10 @@ header section .content .price_order {
 }
 
 header section .content .price_order .price h2 {
-    font-size: 20px;
+    font-size: 25px;
     color: #000;
     line-height: 18px;
+    margin-bottom: 5px;
 }
 
 header section .content .price_order .price p {
