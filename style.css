@@ -472,7 +472,7 @@ header section .social .icons a:hover {
 @media screen and (max-width: 740px) {
     header {
         width: 92vw;
-        height: 95vh;
+        height: 91vh;
     }
 
     header .logo {
@@ -517,7 +517,7 @@ header section .social .icons a:hover {
 
         header section .content {
             left: 12%;
-            top: 50%;
+            top: 41%;
             height: 9%;
             font-size: 43px;
         }
@@ -534,14 +534,16 @@ header section .social .icons a:hover {
 
         header section .content {
             left: 12%;
-            top: 48%;
+            top: 41%;
             height: 9%;
             font-size: 43px;
         }
     }
 
     @media screen and (max-width: 412px) {
-
+        header section .content{
+            top: 41%;
+        }
 
         header section .content h1 {
             font-size: 55%;
@@ -556,7 +558,7 @@ header section .social .icons a:hover {
             width: 200px;
             height: 43%;
             left: 23%;
-            top: 8%;
+            top: 0;
         }
 
         header .logo img {
@@ -602,6 +604,9 @@ header section .social .icons a:hover {
             left: 22%;
             top: 8%;
         }
+        header section .content{
+            top: 41%;
+        }
     }
 
     @media screen and (max-width: 390px) {
@@ -613,12 +618,15 @@ header section .social .icons a:hover {
             position: relative;
             left: 14px;
         }
+        header section .content{
+            top: 41%;
+        }
     }
 
     @media screen and (max-width: 360px) {
         header section .content {
             left: 12%;
-            top: 48%;
+            top: 41%;
             height: 9%;
             font-size: 43px;
         }
