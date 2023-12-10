@@ -663,6 +663,7 @@ header section .social .icons a:hover {
         header section .cards {
             margin: 0;
             padding: 0;
+            width: 84%;
         }
 
         .sub-menu-wrap.open-menu {
