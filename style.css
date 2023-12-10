@@ -428,6 +428,7 @@ header section .social .icons a:hover {
         z-index: 1;
         left: 1.3rem;
         overflow-y: auto;
+        top: 9%;
     }
 }
 
@@ -661,7 +662,7 @@ header section .social .icons a:hover {
             z-index: 1;
             position: absolute;
             left: 4%;
-            top: 10%;
+            top: 9%;
             height: 31%;
             border-radius: 0 0px 40px 40px;
         }
