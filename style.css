@@ -510,6 +510,9 @@ header section .social .icons a:hover {
     }
 
     @media screen and (max-width: 500px) {
+        header {
+            height: 88vh;
+        }
         header .logo {
             left: 21%;
             top: 8%;
