@@ -448,6 +448,11 @@ header section .social .icons a:hover {
         width: 93%;
     }
 
+    header section .cards {
+        margin: 0;
+        padding: 0;
+    }
+
     header .logo h1 {
         position: relative;
         top: 11px;
