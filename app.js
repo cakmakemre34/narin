@@ -47,5 +47,7 @@ function toggleMenu() {
     subMenu.classList.toggle("open-menu")
 }
 
-
+document.addEventListener('touchstart', function(event) {
+    event.preventDefault();
+}, { passive: true });
 
