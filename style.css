@@ -442,6 +442,7 @@ header section .social .icons a:hover {
         top: 74%;
         left: 18.5%;
     }
+
     .sub-menu-wrap.open-menu {
         max-height: 32rem;
         width: 12rem;
@@ -589,6 +590,15 @@ header section .social .icons a:hover {
             min-width: 132px;
             min-height: 132px;
         }
+
+        header section .cards {
+            top: 75%;
+            left: 8%;
+            width: 83%;
+        }
+        .sub-menu-wrap.open-menu{
+            height: 30%;
+        }
     }
 
     @media screen and (max-width: 390px) {
@@ -645,7 +655,7 @@ header section .social .icons a:hover {
             position: absolute;
             left: 4%;
             top: 10%;
-            height: 60%;
+            height: 30%;
             border-radius: 0 0px 40px 40px;
         }
 
