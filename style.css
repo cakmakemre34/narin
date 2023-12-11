@@ -281,8 +281,8 @@ header section .cards .card .dis {
     width: 70px;
     height: 70px;
     position: relative;
-    top: -5px;
-    left: -5px;
+    top: 0px;
+    left: 0px;
     border-radius: 33px;
 }
 
