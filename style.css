@@ -270,7 +270,7 @@ header section .cards .card {
     border: 1px solid rgb(250, 52, 55);
     margin-right: 13px;
     background: rgb(176, 130, 58);
-    border-radius: 50px 10px 10px 10px;
+    border-radius: 33px 10px 10px 10px;
 }
 
 header section .cards .card:nth-last-child(1) {
