@@ -67,7 +67,7 @@ header .logo img {
     left: 0px;
     top: 0px;
     z-index: 1;
-    border-radius: 40%;
+    border-radius: 33px;
     -moz-box-shadow: 1px 1px 3px 0 #141414;
     -webkit-box-shadow: 1px 1px 3px 0 #020202;
     box-shadow: 1px 1px 3px 0 #0b0b0b;
@@ -283,7 +283,7 @@ header section .cards .card .dis {
     position: relative;
     top: -5px;
     left: -5px;
-    border-radius: 50%;
+    border-radius: 33px;
 }
 
 header section .cards .card h3 {
