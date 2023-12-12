@@ -4,6 +4,9 @@
 }
 
 @media screen and (max-width: 900px) {
+    *{
+        background-color: black;
+    }
     img{
         width: 100vw;
         height: 100vh;
