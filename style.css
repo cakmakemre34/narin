@@ -30,12 +30,12 @@
 
     .banner .btn {
         display: flex;
-        justify-content: center;
+        justify-content: space-around;
     }
 
     .banner .btn .bar{
         margin: 0.5rem;
-        border: 3px solid rgb(254, 203, 4);
+        border: 2.5px solid rgb(254, 203, 4);
         border-radius: 0.5rem;
         padding: 0.2rem 0.4rem;
         color: #fff;
