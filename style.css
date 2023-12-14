@@ -31,12 +31,13 @@
     .banner .btn {
         display: flex;
         justify-content: space-around;
+        margin-top: 1rem;
     }
 
     .banner .btn .bar{
         margin: 0.5rem;
         border: 2.5px solid rgb(254, 203, 4);
-        border-radius: 0.5rem;
+        border-radius: 0.7rem;
         padding: 0.2rem 0.4rem;
         color: #fff;
         text-decoration: none;
