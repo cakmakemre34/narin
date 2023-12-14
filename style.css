@@ -42,6 +42,6 @@
         text-decoration: none;
     }
     .menu{
-        position: relative;
+        position: absolute;
     }
 }
