@@ -35,9 +35,9 @@
 
     .banner .btn .bar{
         margin: 0.5rem;
-        border: 3px solid rgb(254, 227, 44);
+        border: 3px solid rgb(254, 203, 4);
         border-radius: 0.5rem;
-        padding: 0.1rem 0.2rem;
+        padding: 0.2rem 0.4rem;
         color: #fff;
         text-decoration: none;
     }
