@@ -1,20 +1,23 @@
-*{
+* {
     margin: 0;
     padding: 0;
 }
 
 @media screen and (max-width: 900px) {
-    *{
+    * {
         background-color: #000;
     }
-    img{
+
+    img {
         width: 100vw;
         height: 100vh;
     }
 
-    .logo{
+    .logo {
         width: 25vw;
         height: auto;
-        align-items: center;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
     }
 }
