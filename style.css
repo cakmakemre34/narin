@@ -13,11 +13,27 @@
         height: 100vh;
     }
 
-    .logo {
+    .banner {
+        position: fixed;
+        width: 100vw;
+        height: 15vh;
+    }
+
+    .banner .logo {
         width: 25vw;
         height: auto;
         display: block;
         margin-left: auto;
         margin-right: auto;
+        padding-top: 1rem;
+    }
+
+    .banner .btn {
+        display: flex;
+        justify-content: center;
+    }
+
+    .banner .btn .bar{
+        padding: 0.3rem;
     }
 }
