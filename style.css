@@ -16,7 +16,7 @@
     .banner {
         position: fixed;
         width: 100vw;
-        height: 12rem;
+        height: 10rem;
     }
 
     .banner .logo {
@@ -42,6 +42,7 @@
         text-decoration: none;
     }
     .menu{
+        position: absolute;
         top: 15rem;
     }
 }
